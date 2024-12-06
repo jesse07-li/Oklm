@@ -1,0 +1,10 @@
+h1 {
+	text-align: center;
+	border-bottom: 2px dashed darkgreen;
+	width: 200px;
+}
+.jess{
+	display: inline-block;
+	justify-content: space-evenly;
+
+}
